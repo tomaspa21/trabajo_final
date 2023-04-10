@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(150, 201, 198);
+}
+.contenido{
+    background-color: rgb(173, 246, 246);
+    padding: 1rem; 
+}
+.totales{
+    background-color: rgb(175, 249, 165);
+    padding: 1rem;
+
+}
+.botonera_principal{
+    border-left: 2.5rem solid rgb(253, 251, 251);
+    border-right: 2.5rem solid rgb(253, 251, 251);
+    background-color: rgb(122, 228, 231);
+    padding: 1.5rem;
+}
+.botonera_principal li{
+    display: inline-block;
+    padding-left: 1rem;
+}
+.botonera_principal a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+}
+.contacto_contenido{
+    margin: 1rem;
+    padding: 1rem;
+    width: 80%;
+    background-color: rgb(176, 175, 175);
+}
+.contacto_input{
+    width: 90%;
+    display: block;
+    padding: 1rem;
+    margin-bottom: 0.8rem;
+}
+.tienda_contenido{
+    width: 90%;
+    display: block;
+    padding: 1rem;
+    padding-left: 30rem;
+    margin-bottom: 0.8rem;
+}
+.producto_descripcion{
+    width: 90%;
+    display: block;
+    padding: 1rem;
+    padding-left: 30rem;
+    margin-bottom: 0.8rem;
+}
+.tienda{  
+    padding: 0.9rem;
+    padding-left: 7rem;   
+}
+.historia{
+    margin: 5rem;
+    padding-left: 30rem;      
+}
+.lista{
+    margin: 5rem;
+    padding-left: 24rem;         
+}
+.titulo{
+    margin: 5rem;
+    padding-left: 30rem;        
+}
+.direccion{
+    margin: 3rem;
+    padding-left: 24rem;         
+}
+.foto{
+    margin: 3rem;
+    padding-left: 18rem;        
+}
+
